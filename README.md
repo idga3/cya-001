@@ -1,0 +1,2 @@
+# cya-001
+Example of Ravenous Algorithm such as currency exchange. Given a certain amount n (real number), the algorithm must return the correct set of coins whose total sum is equal to the value of n, as well as the total number of coins. Within the voracious strategy scheme, the best candidate (coin) will be the highest feasible value remaining in the set of candidates. That is, the set of candidates should be explored from the position of the last selected currency, and not from the beginning.
